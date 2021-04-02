@@ -17,7 +17,7 @@ spec:
         version: v1
     spec:
       containers:
-      - image: image-registry.openshift-image-registry.svc:5000/squad6-jeff/app:bdcc0f1
+      - image: image-registry.openshift-image-registry.svc:5000/squad6-jeff/app:d8eba83
         imagePullPolicy: Always
         name: grocery6
         ports:
